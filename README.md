@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/cnnous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cnnous" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sina-karimi-5b1b1928a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sina-karimi-5b1b1928a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16267412/cna-karimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16267412/cna-karimi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/cna-karimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16267412/cna-karimi" height="30" width="40" /></a>
 <a href="https://instagram.com/cna.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cna.k" height="30" width="40" /></a>
 </p>
 
