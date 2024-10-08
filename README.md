@@ -50,6 +50,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cnakarimi/cnakarimi/output/snake.svg" alt="Snake animation" />
 
 ###
