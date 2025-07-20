@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Sina Karimi</h1>
 <h3 align="center">Web Developer based in Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnakarimi&label=Profile%20views&color=000000&style=flat-square" alt="cnakarimi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnakarimi&label=Profile%20views&color=cfa407&style=plastic" alt="cnakarimi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cnakarimi" alt="cnakarimi" /></a> </p>
 
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnakarimi&show_icons=true&locale=en&layout=compact" alt="cnakarimi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnakarimi&show_icons=true&locale=en" alt="cnakarimi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnakarimi&show_icons=true&theme=radical&locale=en" alt="cnakarimi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cnakarimi&theme=dark" alt="cnakarimi" /></p>
