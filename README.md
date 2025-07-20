@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **My Fifa is better than my coding**
 
-<h3 align="left">Connect with me:</h3>  **karimicna@gmail.com**
+<h3 align="left">Connect with me:</h3>  <p>karimicna@gmail.com</p>
 
 
 
