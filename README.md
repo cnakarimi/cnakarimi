@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Sina Karimi</h1>
 <h3 align="center">Web Developer based in Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnakarimi&label=Profile%20views&color=0e75b6&style=flat" alt="cnakarimi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnakarimi&label=Profile%20views&color=000000&style=plastic" alt="cnakarimi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cnakarimi" alt="cnakarimi" /></a> </p>
 
